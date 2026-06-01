@@ -1,6 +1,7 @@
 # 3-Finger-Robotic-Gripper
 
 **Objective**
+
 This project focuses on the design, kinematic-dynamic modelling, and closed-loop control of an adaptive three-finger robotic gripper. The goal is to balance mechanical multi-link complexity against multi-variable control effort to establish a stable, versatile end-effector capable of secure form and force closure across diverse geometries.
 
 **Methodology** 
